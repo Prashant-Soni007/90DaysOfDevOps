@@ -22,3 +22,4 @@ I want to move beyond just writing code and take ownership of the entire deploym
 
 ## How I'll Stay Consistent
 I'll track daily progress in a public GitHub log and post short updates on LinkedIn to stay accountable. On low-energy days, I'll commit to at least 30 minutes rather than skipping entirely, to protect the streak.
+...
